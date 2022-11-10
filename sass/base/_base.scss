@@ -1,0 +1,10 @@
+body {
+    color: var(--primary-text-color);
+    background-color: var(--btn-text-color);
+    font-family: Roboto, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.03em;
+}
+
+.flex-box {
+    display: flex;
+}
